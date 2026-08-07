@@ -61,6 +61,7 @@ These visualizations help identify patterns and understand which employee groups
 Overall attrition rate is 16.1%.
 Employees earning up to 5K salary show the highest attrition.
 The 26–35 age group has the highest number of employees leaving.
+Attritions at year in the company within 1st and 2nd year most, where employees are leaving the company.
 Laboratory Technicians experience the highest attrition among job roles.
 Male employees have higher attrition than female employees.
 Employees with fewer years at the company contribute significantly to overall attrition.
